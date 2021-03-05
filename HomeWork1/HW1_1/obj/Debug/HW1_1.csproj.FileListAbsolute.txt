@@ -1,0 +1,7 @@
+E:\2Spring\C#\CSProject\HW1_1\bin\Debug\HW1_1.exe.config
+E:\2Spring\C#\CSProject\HW1_1\bin\Debug\HW1_1.exe
+E:\2Spring\C#\CSProject\HW1_1\bin\Debug\HW1_1.pdb
+E:\2Spring\C#\CSProject\HW1_1\obj\Debug\HW1_1.csprojAssemblyReference.cache
+E:\2Spring\C#\CSProject\HW1_1\obj\Debug\HW1_1.csproj.CoreCompileInputs.cache
+E:\2Spring\C#\CSProject\HW1_1\obj\Debug\HW1_1.exe
+E:\2Spring\C#\CSProject\HW1_1\obj\Debug\HW1_1.pdb
