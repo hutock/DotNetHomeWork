@@ -1,0 +1,6 @@
+E:\2Spring\C#\CSProject\HomeWork2\Q2\bin\Debug\Q2.exe.config
+E:\2Spring\C#\CSProject\HomeWork2\Q2\bin\Debug\Q2.exe
+E:\2Spring\C#\CSProject\HomeWork2\Q2\bin\Debug\Q2.pdb
+E:\2Spring\C#\CSProject\HomeWork2\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+E:\2Spring\C#\CSProject\HomeWork2\Q2\obj\Debug\Q2.exe
+E:\2Spring\C#\CSProject\HomeWork2\Q2\obj\Debug\Q2.pdb
