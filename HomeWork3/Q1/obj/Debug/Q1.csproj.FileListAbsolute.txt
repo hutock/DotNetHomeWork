@@ -1,0 +1,7 @@
+E:\2Spring\C#\CSProject\HomeWork3\Q1\bin\Debug\Q1.exe.config
+E:\2Spring\C#\CSProject\HomeWork3\Q1\bin\Debug\Q1.exe
+E:\2Spring\C#\CSProject\HomeWork3\Q1\bin\Debug\Q1.pdb
+E:\2Spring\C#\CSProject\HomeWork3\Q1\obj\Debug\Q1.csprojAssemblyReference.cache
+E:\2Spring\C#\CSProject\HomeWork3\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+E:\2Spring\C#\CSProject\HomeWork3\Q1\obj\Debug\Q1.exe
+E:\2Spring\C#\CSProject\HomeWork3\Q1\obj\Debug\Q1.pdb
