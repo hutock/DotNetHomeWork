@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <orderDetails>
+      <OrderDetail>
+        <item>
+          <name>a</name>
+          <price>2</price>
+          <store>a</store>
+        </item>
+        <itemNum>1</itemNum>
+      </OrderDetail>
+    </orderDetails>
+    <customer>
+      <name>lxz</name>
+    </customer>
+    <orderNum>10001</orderNum>
+  </Order>
+  <Order>
+    <orderDetails>
+      <OrderDetail>
+        <item>
+          <name>b</name>
+          <price>24</price>
+          <store>b</store>
+        </item>
+        <itemNum>1</itemNum>
+      </OrderDetail>
+    </orderDetails>
+    <customer>
+      <name>lxz</name>
+    </customer>
+    <orderNum>10002</orderNum>
+  </Order>
+</ArrayOfOrder>

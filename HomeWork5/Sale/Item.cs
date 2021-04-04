@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace Sale
 {
-    class Item
+    public class Item
     {
         public string name { get; set; }
         public int price { get; set; }
         public string store { get; set; }
+
+        public Item() { }
 
         public override string ToString()
         {

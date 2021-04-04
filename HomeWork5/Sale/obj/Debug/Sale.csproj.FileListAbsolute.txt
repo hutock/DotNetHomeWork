@@ -4,3 +4,4 @@ E:\2Spring\C#\CSProject\HomeWork5\Sale\bin\Debug\Sale.pdb
 E:\2Spring\C#\CSProject\HomeWork5\Sale\obj\Debug\Sale.csproj.CoreCompileInputs.cache
 E:\2Spring\C#\CSProject\HomeWork5\Sale\obj\Debug\Sale.exe
 E:\2Spring\C#\CSProject\HomeWork5\Sale\obj\Debug\Sale.pdb
+E:\2Spring\C#\CSProject\HomeWork5\Sale\obj\Debug\Sale.csprojAssemblyReference.cache

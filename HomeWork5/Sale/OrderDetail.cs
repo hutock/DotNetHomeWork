@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sale
 {
-    class OrderDetail
+    public class OrderDetail
     {
         public int itemNum { get; set; }
         public Item item = new Item();
@@ -15,6 +15,8 @@ namespace Sale
         {
             return this.item.ToString() + "\t" + this.item.price + "￥\n";
         }
+
+        public OrderDetail() { }
 
         public OrderDetail(string detail)
         {

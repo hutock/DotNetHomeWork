@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Sale
 {
-    class Order
+    [Serializable]
+    public class Order
     {
-        private static int autoNum = 10001;  
+        public static int autoNum = 10001;  
         public int orderNum { get; set; }
 
         public List<OrderDetail> orderDetails = new List<OrderDetail>();
@@ -23,6 +24,8 @@ namespace Sale
             } }
 
         public Customer customer = new Customer();
+
+        public Order() { }
 
         public Order(string customer, List<OrderDetail> newDetails)
         {

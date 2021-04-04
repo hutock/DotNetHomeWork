@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace Sale
 {
-    class Customer
+    public class Customer
     {
         public string name { get; set; }
+
+        public Customer() { }
 
         public override bool Equals(object obj)
         {

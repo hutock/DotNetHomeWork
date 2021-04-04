@@ -1,0 +1,7 @@
+E:\2Spring\C#\CSProject\HomeWork6\Sale\bin\Debug\Sale.exe.config
+E:\2Spring\C#\CSProject\HomeWork6\Sale\bin\Debug\Sale.exe
+E:\2Spring\C#\CSProject\HomeWork6\Sale\bin\Debug\Sale.pdb
+E:\2Spring\C#\CSProject\HomeWork6\Sale\obj\Debug\Sale.csprojAssemblyReference.cache
+E:\2Spring\C#\CSProject\HomeWork6\Sale\obj\Debug\Sale.csproj.CoreCompileInputs.cache
+E:\2Spring\C#\CSProject\HomeWork6\Sale\obj\Debug\Sale.exe
+E:\2Spring\C#\CSProject\HomeWork6\Sale\obj\Debug\Sale.pdb
