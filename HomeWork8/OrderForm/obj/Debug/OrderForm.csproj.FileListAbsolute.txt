@@ -1,0 +1,15 @@
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork8\OrderForm\bin\Debug\OrderForm.exe.config
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork8\OrderForm\bin\Debug\OrderForm.exe
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork8\OrderForm\bin\Debug\OrderForm.pdb
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork8\OrderForm\bin\Debug\Sale.exe
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork8\OrderForm\bin\Debug\Sale.pdb
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork8\OrderForm\bin\Debug\Sale.exe.config
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork8\OrderForm\obj\Debug\OrderForm.csprojAssemblyReference.cache
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork8\OrderForm\obj\Debug\OrderForm.Form1.resources
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork8\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork8\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork8\OrderForm\obj\Debug\OrderForm.csproj.CoreCompileInputs.cache
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork8\OrderForm\obj\Debug\OrderForm.csproj.CopyComplete
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork8\OrderForm\obj\Debug\OrderForm.exe
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork8\OrderForm\obj\Debug\OrderForm.pdb
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork8\OrderForm\obj\Debug\OrderForm.Form2.resources
