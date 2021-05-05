@@ -1,0 +1,6 @@
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork9\test\bin\Debug\test.exe.config
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork9\test\bin\Debug\test.exe
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork9\test\bin\Debug\test.pdb
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork9\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork9\test\obj\Debug\test.exe
+E:\2Spring\C#\githubL\DotNetHomeWork\HomeWork9\test\obj\Debug\test.pdb
