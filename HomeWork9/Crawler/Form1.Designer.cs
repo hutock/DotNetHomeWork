@@ -31,11 +31,11 @@ namespace Crawler
         {
             this.UrlTxt = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.lblInfo = new System.Windows.Forms.Label();
             this.CrawThisBtn = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.lblInfo = new System.Windows.Forms.Label();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -62,6 +62,13 @@ namespace Crawler
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1009, 100);
             this.panel1.TabIndex = 3;
+            // 
+            // lblInfo
+            // 
+            this.lblInfo.Location = new System.Drawing.Point(664, 42);
+            this.lblInfo.Name = "lblInfo";
+            this.lblInfo.Size = new System.Drawing.Size(133, 55);
+            this.lblInfo.TabIndex = 3;
             // 
             // CrawThisBtn
             // 
@@ -107,13 +114,6 @@ namespace Crawler
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(1009, 433);
             this.panel2.TabIndex = 5;
-            // 
-            // lblInfo
-            // 
-            this.lblInfo.Location = new System.Drawing.Point(664, 42);
-            this.lblInfo.Name = "lblInfo";
-            this.lblInfo.Size = new System.Drawing.Size(133, 55);
-            this.lblInfo.TabIndex = 3;
             // 
             // Column1
             // 

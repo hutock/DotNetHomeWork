@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Collections.Concurrent;
+using System.Diagnostics;
 using System.Linq;
 using System.Net;
 using System.IO;
@@ -14,6 +16,8 @@ namespace Crawler
     {
         public event Action<Crawler> CrawlerStopped;
         public event Action<Crawler, string, string> PageDownloaded;
+
+
 
         private Queue<string> pending = new Queue<string>();
 
@@ -57,12 +61,13 @@ namespace Crawler
                     PageDownloaded(this, current, "OK");
                     Parse(html, current);
                 }
-                catch(Exception ex)
+                catch (Exception ex)
                 {
                     PageDownloaded(this, current, "Error:" + ex.Message);
                 }
             }
             CrawlerStopped(this);
+
         }
 
         public string DownLoad(string url)

@@ -15,6 +15,8 @@ using System.Windows.Forms;
 
 namespace Crawler
 {
+
+    //http://www.cnblogs.com/dstang2000/
     public partial class Form1 : Form
     {
         public BindingSource urlSource = new BindingSource();
@@ -53,6 +55,7 @@ namespace Crawler
             {
                 action();
             }
+            
         }
         private void CrawThisBtn_Click(object sender, EventArgs e)
         {
@@ -64,6 +67,7 @@ namespace Crawler
             crawler.FileFilter = "((.html?|.aspx|.jsp|.php)$|^[^.]+$)";
 
             new Thread(crawler.Craw).Start();
+            
         }
     }
 }
