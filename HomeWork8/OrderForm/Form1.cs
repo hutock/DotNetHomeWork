@@ -14,7 +14,7 @@ namespace OrderForm
 {
     public partial class Form1 : Form
     {
-
+        
         OrderService orderService = new OrderService();//订单管理对象
         List<Order> queryOrder = new List<Order>();//查询出来的订单
 

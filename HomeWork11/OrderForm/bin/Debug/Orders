@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <sum>6</sum>
+    <OrderID>1</OrderID>
+    <OrderNum>10001</OrderNum>
+    <orderDetails>
+      <OrderDetail>
+        <OrderDetailID>1</OrderDetailID>
+        <itemNum>3</itemNum>
+        <itemName>das</itemName>
+        <itemPrice>2</itemPrice>
+        <itemStore>dasd</itemStore>
+      </OrderDetail>
+    </orderDetails>
+    <priceSum>6</priceSum>
+    <customerName>lxz</customerName>
+  </Order>
+  <Order>
+    <sum>92</sum>
+    <OrderID>2</OrderID>
+    <OrderNum>10002</OrderNum>
+    <orderDetails>
+      <OrderDetail>
+        <OrderDetailID>2</OrderDetailID>
+        <itemNum>4</itemNum>
+        <itemName>ad</itemName>
+        <itemPrice>23</itemPrice>
+        <itemStore>sad</itemStore>
+      </OrderDetail>
+    </orderDetails>
+    <priceSum>92</priceSum>
+    <customerName>黎谢之</customerName>
+  </Order>
+</ArrayOfOrder>

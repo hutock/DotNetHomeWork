@@ -13,6 +13,17 @@
         <price>1</price>
         <store>a</store>
       </OrderDetail>
+      <OrderDetail>
+        <item>
+          <Name>b</Name>
+          <Price>1</Price>
+          <Store>b</Store>
+        </item>
+        <itemNum>1</itemNum>
+        <name>b</name>
+        <price>1</price>
+        <store>b</store>
+      </OrderDetail>
     </orderDetails>
     <customer>
       <name>a</name>
